@@ -7,10 +7,9 @@ La informació dels embassaments de Catalunya està disponible ens aquestes xarx
   - Cada hora dia i nit.
 - Twitter:
   - https://x.com/Embassamentscat
-  - Cada hora entre les 8:00 i les 23:00 inclosses. Això és degut a la límitació de l'API de twitter que limita el número de piulades per dia. 
+  - Cada hora entre les 8:00 i les 23:00 inclosses. Això és degut a la límitació de l'API de twitter amb el número màxim de piulades per dia. 
 - Instagram:
   - https://www.instagram.com/embassaments
-  - Cada dues hores dia i nit. Això es degut a que només el publiquen les imatges gràfiques.
 
 Les dades s'obtenen de l'API de dades obertes de l'[Agència Catalana de l'Aigua (ACA)](https://aca.gencat.cat/ca/inici/index.html) i es publiquen automàticament a les xarxes socials anteriors ambn criteris diferents.També es publiquen alguns tuits manualment de manera puntual. 
 
