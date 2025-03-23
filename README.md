@@ -11,7 +11,7 @@ La informació dels embassaments de Catalunya està disponible ens aquestes xarx
 - Instagram:
   - https://www.instagram.com/embassaments
 
-Les dades s'obtenen de l'API de dades obertes de l'[Agència Catalana de l'Aigua (ACA)](https://aca.gencat.cat/ca/inici/index.html) i es publiquen automàticament a les xarxes socials anteriors ambn criteris diferents. També es publiquen alguns tuits manualment de manera puntual. 
+Les dades s'obtenen de l'API de dades obertes de l'[Agència Catalana de l'Aigua (ACA)](https://aca.gencat.cat/ca/inici/index.html) i es publiquen automàticament a les xarxes socials anteriors amb criteris diferents. També es fan algunes publicacions manualment de manera puntual. 
 
 La primera dada es va publicar a twitter el [22 de Maig del 2024](https://x.com/Embassamentscat/status/1793296839057301744).
 
@@ -31,7 +31,7 @@ La majoría dels missatges són automàtics. Alguns altres, que surten períòdi
 
 **¿Per què hi ha tanta diferència entre el percentatge que s'indica i les dades que publica l'ACA a la pàgina d'estat dels embassamnets?**
 
-La dada que surt a [Estat dels embassaments](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/recursos-disponibles/estat-de-les-reserves-daigua-als-embassaments/) és d'una actualització diària per voltants de les 12:00 (i són d'unes hores abans de les 12:00). Les dades que es publiquen en aquests comptes són dades a temps real que també publica l'ACA en format tractable.
+La dada que surt a [Estat dels embassaments](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/recursos-disponibles/estat-de-les-reserves-daigua-als-embassaments/) és d'una actualització diària per voltants de les 12:00 (i és d'unes hores anteriors). Les dades que es publiquen en aquests comptes són les més recents que publica l'ACA en format tractable.
 
 **¿Per què tal embassament té més d'un 100%?**
 
@@ -43,7 +43,7 @@ No ho sé. Això s'ha de preguntar a l'[ACA](https://x.com/aigua_cat) directamen
 
 **¿Com pot ser que si ha plogut tant, tal embassament estigui buit?**
 
-Perquè a més de ploure, ha de ploure bé. En concret, pels embassaments de conques internes ha de ploure on indica aquest mapa que va [publicar l'ACA]([https://x.com/Embassamentscat/](https://x.com/aigua_cat/status/1662007831199989760) en el seu dia
+Perquè a més de ploure, ha de ploure bé. En concret, pels embassaments de conques internes ha de ploure on indica aquest mapa que va [publicar l'ACA](https://x.com/aigua_cat/status/1662007831199989760) en el seu dia.
 
 **¿Per què Gaià i el Pasteral apareixen a part?**
 
