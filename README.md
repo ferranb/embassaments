@@ -15,31 +15,6 @@ Les dades s'obtenen de l'API de dades obertes de l'[Agència Catalana de l'Aigua
 
 La primera dada es va publicar a twitter el [22 de Maig del 2024](https://x.com/Embassamentscat/status/1793296839057301744).
 
-# [Dades obertes](#dadesobertes)
-
-Informe diari de l'estat dels embassaments:
-
-- [Estat dels embassaments](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/recursos-disponibles/estat-de-les-reserves-daigua-als-embassaments/). Aquí hi ha la xifra oficial de l'ACA de l'estat actual dels embassaments. Es publica cada dia per voltants de les 12 i es pot veure el detall a l'[Informe diari de l'estat de tots els embassaments a tot catalunya](https://info.aca.gencat.cat/ca/aca/informacio/informesdwh/dades_embassaments_ca.pdf).
-
-Eines visuals amb dades a temps real:
-  - [Dades a temps real de l'ACA](http://aca-web.gencat.cat/sdim2/visor/) amb la plataforma [Sentilo](https://www.sentilo.io/).
-  - [Eina visual de l'ACA sobre l'estat dels embassaments](https://aca.gencat.cat/ca/laigua/consulta-de-dades/dades-obertes/visualitzacio-interactiva-dades/estat-embassaments/).
-  - [Un altre visor molt interessant](https://aplicacions.aca.gencat.cat/aetr/vishid/#ara).
-
-Dades obertes per us d'aplicacions o analístes de dades:
-
-- [Dades obertes a temps real](https://aca.gencat.cat/ca/laigua/consulta-de-dades/dades-obertes/dades-obertes-temps-real/) on trobareu els enllaços i també el [Manual d’ús del servei API-REST de l'ACA](https://aca.gencat.cat/web/.content/20_Aigua/08_consulta_de_dades/01_dades_obertes/02_dades_obertes_a_temps_real/us_serveis_dades_API_REST.pdf).
-- [Catàleg de dades obertes](https://aca.gencat.cat/ca/laigua/consulta-de-dades/dades-obertes/cataleg-dades-obertes/).
-- [Quantitat d’aigua als embassaments de les Conques Internes de Catalunya](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Quantitat-d-aigua-als-embassaments-de-les-Conques-/gn9e-3qhr/about_data). Dades obertes dels embassaments de conques internes. La granularitat és diària.
-- Pels més curiosos, les crides a l'API (Application Programming Interface) que es fan servir per actualitzar les dades que es publiquen:
-  - [Catàleg de sensors](http://aca-web.gencat.cat/sdim2/apirest/catalog?componentType=embassament).
-  - [Crida a les darreres dades dels sensors](http://aca-web.gencat.cat/sdim2/apirest/data/EMBASSAMENT-EST).
-
-Altres enllaços:
-- [Preses i embassaments de Catalunya](https://aca.gencat.cat/ca/laigua/infraestructures/preses-i-embassaments).
-- [Informació hidrològica de l'Ebre](https://www.saihebro.com/homepage/estado-cuenca-ebro).
-- [Informació d'embassaments del Departament d'Agricultura Ramaderia i Alimentació](https://agricultura.gencat.cat/ca/ambits/desenvolupament-rural/infraestructures-agraries/dar_regadius/estat-embassaments-catalunya/index.html).
-
 # [Preguntes frequents](#preguntesfrequents)
 
 **¿Aquests comptes són d'alguna organisme oficial?** 
@@ -94,3 +69,28 @@ Aquesta pregunta, és seriosa?
 
 I tant. Quan abans, millor, sisplau!
 
+
+# [Dades obertes](#dadesobertes)
+
+Informe diari de l'estat dels embassaments:
+
+- [Estat dels embassaments](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/recursos-disponibles/estat-de-les-reserves-daigua-als-embassaments/). Aquí hi ha la xifra oficial de l'ACA de l'estat actual dels embassaments. Es publica cada dia per voltants de les 12 i es pot veure el detall a l'[Informe diari de l'estat de tots els embassaments a tot catalunya](https://info.aca.gencat.cat/ca/aca/informacio/informesdwh/dades_embassaments_ca.pdf).
+
+Eines visuals amb dades a temps real:
+  - [Dades a temps real de l'ACA](http://aca-web.gencat.cat/sdim2/visor/) amb la plataforma [Sentilo](https://www.sentilo.io/).
+  - [Eina visual de l'ACA sobre l'estat dels embassaments](https://aca.gencat.cat/ca/laigua/consulta-de-dades/dades-obertes/visualitzacio-interactiva-dades/estat-embassaments/).
+  - [Un altre visor molt interessant](https://aplicacions.aca.gencat.cat/aetr/vishid/#ara).
+
+Dades obertes per us d'aplicacions o analístes de dades:
+
+- [Dades obertes a temps real](https://aca.gencat.cat/ca/laigua/consulta-de-dades/dades-obertes/dades-obertes-temps-real/) on trobareu els enllaços i també el [Manual d’ús del servei API-REST de l'ACA](https://aca.gencat.cat/web/.content/20_Aigua/08_consulta_de_dades/01_dades_obertes/02_dades_obertes_a_temps_real/us_serveis_dades_API_REST.pdf).
+- [Catàleg de dades obertes](https://aca.gencat.cat/ca/laigua/consulta-de-dades/dades-obertes/cataleg-dades-obertes/).
+- [Quantitat d’aigua als embassaments de les Conques Internes de Catalunya](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Quantitat-d-aigua-als-embassaments-de-les-Conques-/gn9e-3qhr/about_data). Dades obertes dels embassaments de conques internes. La granularitat és diària.
+- Pels més curiosos, les crides a l'API (Application Programming Interface) que es fan servir per actualitzar les dades que es publiquen:
+  - [Catàleg de sensors](http://aca-web.gencat.cat/sdim2/apirest/catalog?componentType=embassament).
+  - [Crida a les darreres dades dels sensors](http://aca-web.gencat.cat/sdim2/apirest/data/EMBASSAMENT-EST).
+
+Altres enllaços:
+- [Preses i embassaments de Catalunya](https://aca.gencat.cat/ca/laigua/infraestructures/preses-i-embassaments).
+- [Informació hidrològica de l'Ebre](https://www.saihebro.com/homepage/estado-cuenca-ebro).
+- [Informació d'embassaments del Departament d'Agricultura Ramaderia i Alimentació](https://agricultura.gencat.cat/ca/ambits/desenvolupament-rural/infraestructures-agraries/dar_regadius/estat-embassaments-catalunya/index.html).
