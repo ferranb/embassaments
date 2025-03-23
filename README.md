@@ -11,7 +11,7 @@ La informació dels embassaments de Catalunya està disponible ens aquestes xarx
 - Instagram:
   - https://www.instagram.com/embassaments
 
-Les dades s'obtenen de l'API de dades obertes de l'[Agència Catalana de l'Aigua (ACA)](https://aca.gencat.cat/ca/inici/index.html) i es publiquen automàticament a les xarxes socials anteriors ambn criteris diferents.També es publiquen alguns tuits manualment de manera puntual. 
+Les dades s'obtenen de l'API de dades obertes de l'[Agència Catalana de l'Aigua (ACA)](https://aca.gencat.cat/ca/inici/index.html) i es publiquen automàticament a les xarxes socials anteriors ambn criteris diferents. També es publiquen alguns tuits manualment de manera puntual. 
 
 La primera dada es va publicar a twitter el [22 de Maig del 2024](https://x.com/Embassamentscat/status/1793296839057301744).
 
@@ -22,9 +22,9 @@ Informe diari de l'estat dels embassaments:
 - [Estat dels embassaments](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/recursos-disponibles/estat-de-les-reserves-daigua-als-embassaments/). Aquí hi ha la xifra oficial de l'ACA de l'estat actual dels embassaments. Es publica cada dia per voltants de les 12 i es pot veure el detall a l'[Informe diari de l'estat de tots els embassaments a tot catalunya](https://info.aca.gencat.cat/ca/aca/informacio/informesdwh/dades_embassaments_ca.pdf).
 
 Eines visuals amb dades a temps real:
-  - [Dades a temps real de l'ACA](http://aca-web.gencat.cat/sdim2/visor/) amb la plataforma ([Sentilo](https://www.sentilo.io/)).
+  - [Dades a temps real de l'ACA](http://aca-web.gencat.cat/sdim2/visor/) amb la plataforma [Sentilo](https://www.sentilo.io/).
   - [Eina visual de l'ACA sobre l'estat dels embassaments](https://aca.gencat.cat/ca/laigua/consulta-de-dades/dades-obertes/visualitzacio-interactiva-dades/estat-embassaments/).
-  - [Un altre visor](https://aplicacions.aca.gencat.cat/aetr/vishid/#ara).
+  - [Un altre visor molt interessant](https://aplicacions.aca.gencat.cat/aetr/vishid/#ara).
 
 Dades obertes per us d'aplicacions o analístes de dades:
 
@@ -48,19 +48,19 @@ No. Aquests comptes no tenen cap tipus de relació amb cap organisme públic, ni
 
 **¿Totes les publicacions estan fetes per un bot?**
 
-La majoría dels missatges són automàtics. Alguns altres que surten períòdicament estan en proves manuals fins que s'automatitizin. I les respostes, de moment, són manuals.
+La majoría dels missatges són automàtics. Alguns altres, que surten períòdicament, estan en proves manuals fins que s'automatitizin. I les respostes, de moment, són manuals.
 
 **¿Per què només es publiquen dades de les conques internes?**
 
-És una qüestió de les dades obertes. Ara mateix les dades s'obtenen de l'API de l'ACA que només té informació tractable de les conques internes. Quan tingui temps miro de posar la resta :-)
+És una qüestió de les dades obertes. Ara mateix les dades s'obtenen de l'API de l'ACA que només té informació tractable de les conques internes. Quan hi hagi temps es provarà de posar la resta :-)
 
-**¿Per què hi ha tanta diferència entre el percentatge total plublicat i les dades que publica l'ACA a la pàgina d'estat dels embassamnets?**
+**¿Per què hi ha tanta diferència entre el percentatge que s'indica i les dades que publica l'ACA a la pàgina d'estat dels embassamnets?**
 
-La dada que surt a [Estat dels embassaments](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/recursos-disponibles/estat-de-les-reserves-daigua-als-embassaments/) és d'una actualització diària per voltants de les 12:00 però no són dades de les 12:00 sinó anterior. Les dades que publiquem són dades a temps real que també publica l'ACA.
+La dada que surt a [Estat dels embassaments](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/recursos-disponibles/estat-de-les-reserves-daigua-als-embassaments/) és d'una actualització diària per voltants de les 12:00 (i són d'unes hores abans de les 12:00). Les dades que es publiquen en aquests comptes són dades a temps real que també publica l'ACA en format tractable.
 
 **¿Per què tal embassament té més d'un 100%?**
 
-Per cada embassament, s'estableix un volum màxim indicat per l'ACA. Quan una xifa supera el 100% és perquè el volum actual és superior a aquest valor. En alguns casos vol dir que pot estar sobreexint.
+Per cada embassament, hi ha establert un volum màxim indicat per l'ACA. Quan una xifa supera el 100% és perquè el volum actual és superior a aquest valor. En alguns casos vol dir que pot estar sobreexint.
 
 **¿Per què tal embassament està buit si tal altre està ple o tal riu no se què?**
 
@@ -82,7 +82,7 @@ En [aquesta pàgina](https://sequera.gencat.cat/ca/accions/el-semafor-de-la-sequ
 
 Perquè un tuit té un limit de caràcters. Pels curiosos [aquí|https://x.com/Embassamentscat/status/1901755055088279741] hi ha les dades.
 
-**¿Per què les imatges del radar no marca i si que està plovent?**
+**¿Per què les imatges del radar no marquen i sí que està plovent?**
 
 [Aquí](https://x.com/meteocat/status/1892876743951675486) ho expliquen molt bé els del meteocat.
 
