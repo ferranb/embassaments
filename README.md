@@ -43,7 +43,7 @@ No ho sé. Això s'ha de preguntar a l'[ACA](https://x.com/aigua_cat) directamen
 
 **¿Com pot ser que si ha plogut tant, tal embassament estigui buit?**
 
-Perquè a més de ploure, ha de ploure bé. En concret, pels embassaments de conques internes ha de ploure on indica aquest mapa que va [publicar l'ACA](https://x.com/aigua_cat/status/1662007831199989760) en el seu dia.
+Perquè a més de ploure, ha de ploure bé. En concret, pels embassaments de conques internes ha de ploure on indica aquest mapa que va [publicar](https://x.com/aigua_cat/status/1662007831199989760) l'ACA en el seu dia.
 
 **¿Per què Gaià i el Pasteral apareixen a part?**
 
@@ -55,7 +55,7 @@ En [aquesta pàgina](https://sequera.gencat.cat/ca/accions/el-semafor-de-la-sequ
 
 **¿Per què no es publiquen les dades de capacitat màxima dels embassaments?**
 
-Perquè un tuit té un limit de caràcters. Pels curiosos [aquí|https://x.com/Embassamentscat/status/1901755055088279741] hi ha les dades.
+Perquè un tuit té un limit de caràcters. Pels curiosos [aquí](https://x.com/Embassamentscat/status/1901755055088279741) hi ha les dades.
 
 **¿Per què les imatges del radar no marquen i sí que està plovent?**
 
