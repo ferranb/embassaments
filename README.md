@@ -86,7 +86,7 @@ Perquè un tuit té un limit de caràcters. Pels curiosos [aquí|https://x.com/E
 
 [Aquí](https://x.com/meteocat/status/1892876743951675486) ho expliquen molt bé els del meteocat.
 
-**¿El [tuit](https://github.com/ferranb/embassaments) sobre el debat dels límits de l'humor és seriòs?** 
+**¿El [tuit](https://x.com/Embassamentscat/status/1903815824713929078) sobre el debat dels límits de l'humor és seriòs?** 
 
 Aquesta pregunta, és seriosa?
 
