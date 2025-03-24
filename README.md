@@ -55,13 +55,13 @@ En [aquesta pàgina](https://sequera.gencat.cat/ca/accions/el-semafor-de-la-sequ
 
 **¿Per què no es publiquen les dades de capacitat màxima dels embassaments?**
 
-Perquè un tuit té un limit de caràcters. Pels curiosos [aquí](https://x.com/Embassamentscat/status/1901755055088279741) hi ha les dades.
+Perquè algunes publicacions tenen un limit de caràcters i, a més, no sembla bona idea possar massa dades. Pels curiosos [aquí](https://x.com/Embassamentscat/status/1901755055088279741) hi ha les dades.
 
 **¿Per què les imatges del radar no marquen i sí que està plovent?**
 
 [Aquí](https://x.com/meteocat/status/1892876743951675486) ho expliquen molt bé els del meteocat.
 
-**¿En algun moment hi haurà el codi font de l'automatitzció?** 
+**¿En algun moment hi haurà el codi font de l'automatització?** 
 
 Aquesta és la idea, sí. Quan? No se sap.
 
