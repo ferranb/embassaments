@@ -71,7 +71,7 @@ Aquesta pregunta, és seriosa?
 
 **¿Ja em puc dutxar?**
 
-I tant. Quan abans, millor, sisplau!
+I tant. Com més aviat, millor, sisplau!
 
 
 # [Dades obertes](#dadesobertes)
