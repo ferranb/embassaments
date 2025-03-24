@@ -17,13 +17,13 @@ La primera dada es va publicar a twitter el [22 de Maig del 2024](https://x.com/
 
 # [Preguntes frequents](#preguntesfrequents)
 
-**¿Aquests comptes són d'alguna organisme oficial?** 
+**¿Aquests comptes són d'algun organisme oficial?** 
 
 No. Aquests comptes no tenen cap tipus de relació amb cap organisme públic, ni privat, ni partit polític, ni associació, ni fundació. Està gestionat per una persona individual.
 
 **¿Totes les publicacions estan fetes per un bot?**
 
-La majoría dels missatges són automàtics. Alguns altres, que surten períòdicament, estan en proves manuals fins que s'automatitizin. I les respostes, de moment, són manuals.
+La majoría dels missatges són automàtics. Alguns altres, que surten períòdicament, estan en proves manuals fins que s'automatitizin. I les respostes, de moment, són manuals. El criteri per automatitzar res, almenys en aquest compte, és, primer, fer proves manuals fins que el resultat és sòlid i, després, automatitzar. 
 
 **¿Per què només es publiquen dades de les conques internes?**
 
@@ -60,6 +60,10 @@ Perquè un tuit té un limit de caràcters. Pels curiosos [aquí](https://x.com/
 **¿Per què les imatges del radar no marquen i sí que està plovent?**
 
 [Aquí](https://x.com/meteocat/status/1892876743951675486) ho expliquen molt bé els del meteocat.
+
+**¿En algun moment hi haurà el codi font de l'automatitzció?** 
+
+Aquesta és la idea, sí. Quan? No se sap.
 
 **¿El [tuit](https://x.com/Embassamentscat/status/1903815824713929078) sobre el debat dels límits de l'humor és seriòs?** 
 
