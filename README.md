@@ -23,7 +23,10 @@ No. Aquests comptes no tenen cap tipus de relació amb cap organisme públic, ni
 
 **¿Totes les publicacions estan fetes per un bot?**
 
-La majoría dels missatges són automàtics. Alguns altres, que surten períòdicament, estan en proves manuals fins que s'automatitizin. I les respostes, de moment, són manuals. El criteri per automatitzar res, almenys en aquest compte, és, primer, fer proves manuals fins que el resultat és sòlid i, després, automatitzar. 
+- Les dades en format text són totes automatitzades. 
+- El gràfic de la "gota" es genera automaticament i en breu també es publicarà sol perquè ja fa temps que funciona sense problemes.
+- La resta de gràfics es generen automàticament però es publiquem manualment.
+- Les respostes als comentaris, de moment, són manuals.
 
 **¿Per què només es publiquen dades de les conques internes?**
 
