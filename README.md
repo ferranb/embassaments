@@ -17,62 +17,62 @@ La primera dada es va publicar a twitter el [22 de Maig del 2024](https://x.com/
 
 # [Preguntes frequents](#preguntesfrequents)
 
-**¿Aquests comptes són d'algun organisme oficial?** 
+**Aquest projecte pertany a algun organisme oficial?** 
 
-No. Aquests comptes no tenen cap tipus de relació amb cap organisme públic, ni privat, ni partit polític, ni associació, ni fundació. Està gestionat per una persona individual.
+No. Aquest projecte té cap mena de relació amb cap organisme públic ni privat, ni cap partit polític, associació o fundació. Està gestionat per una persona individual.
 
-**¿Totes les publicacions estan fetes per un bot?**
+**D'on surten les dades?** 
 
-- Les dades en format text són totes automatitzades. 
-- El gràfic de la "gota" es genera automaticament i en breu també es publicarà sol perquè ja fa temps que funciona sense problemes.
-- La resta de gràfics es generen automàticament però es publiquem manualment.
+L'Agència Catalana de l'Aigua disposa d'un conjunt de dades obertes que actulitza constantment. A l'apartat següent hi trobaràs més detall.
+
+**Totes les publicacions es fan mitjançant un bot?**
+
+- Les dades en format text són totalment automatitzades. 
+- El gràfic de la "gota" es genera automàticament i, en breu, també es publicarà de manera automàtica, ja que fa temps que funciona sense problemes.
+- La resta de gràfics es generen automàticament, però es publiquen manualment.
 - Les respostes als comentaris, de moment, són manuals.
 
-**¿Per què només es publiquen dades de les conques internes?**
+**Per què només es publiquen dades de les conques internes?**
 
-És una qüestió de les dades obertes. Ara mateix les dades s'obtenen de l'API de l'ACA que només té informació tractable de les conques internes. Quan hi hagi temps es provarà de posar la resta :-)
+És una qüestió relacionada amb les dades obertes. Ara mateix, les dades s'obtenen de l'API de l'ACA, que només proporciona informació tractable de les conques internes. Quan hi hagi temps, es mirarà d'afegir la resta :-)
 
-**¿Per què hi ha tanta diferència entre el percentatge que s'indica i les dades que publica l'ACA a la pàgina d'estat dels embassamnets?**
+**Per què hi ha tanta diferència entre el percentatge indicat i les dades que publica l'ACA a la pàgina d'estat dels embassamnets?**
 
-La dada que surt a [Estat dels embassaments](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/recursos-disponibles/estat-de-les-reserves-daigua-als-embassaments/) és d'una actualització diària per voltants de les 12:00 (i és d'unes hores anteriors). Les dades que es publiquen en aquests comptes són les més recents que publica l'ACA en format tractable.
+La dada que apareix a [Estat dels embassaments](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/recursos-disponibles/estat-de-les-reserves-daigua-als-embassaments/) s'actualitza diàriament cap a les 12:00 i correspon a unes dades d'hores anteriors. En canvi, les dades que es publiquen en aquests comptes són les més recents disponibles mitjançant l'API.
 
-**¿Per què tal embassament té més d'un 100%?**
+**Per què hi ha embassaments que superen el 100% de capacitat?**
 
-Per cada embassament, hi ha establert un volum màxim indicat per l'ACA. Quan una xifa supera el 100% és perquè el volum actual és superior a aquest valor. En alguns casos vol dir que pot estar sobreexint.
+Per cada embassament, l'ACA esbleix volum màxim de referència. Quan una xifa supera el 100%, és perquè el volum actual és superior a aquest llindar. En alguns casos, això pot indicar que l'embassament està sobreei.
 
-**¿Per què tal embassament està buit si tal altre està ple o tal riu no se què?**
+**Per què tal embassament està buit si tal altre està ple o tal riu no se què?**
 
-No ho sé. Això s'ha de preguntar a l'[ACA](https://x.com/aigua_cat) directament ;-)
+No ho sabem. Això s'ha de preguntar-ho directament a l'[ACA](https://x.com/aigua_cat).
 
-**¿Com pot ser que si ha plogut tant, tal embassament estigui buit?**
+**Si ha plogut tant, com pot ser que tal embassament estigui buit?**
 
-Perquè a més de ploure, ha de ploure bé. En concret, pels embassaments de conques internes ha de ploure on indica aquest mapa que va [publicar](https://x.com/aigua_cat/status/1662007831199989760) l'ACA en el seu dia.
+Perquè, com diuen els metereòlegs, a més de ploure, ha de ploure bé. En el cas dels embassaments de les conques internes, cal que plogui a les zones indicades en aquest [mapa](https://x.com/aigua_cat/status/1662007831199989760) que l'ACA va publicar en el seu moment.
 
-**¿Per què Gaià i el Pasteral apareixen a part?**
+**Per què Gaià i el Pasteral apareixen per separat?**
 
-Perquè no entren dins del comput de les conques internes. 
+Perquè no entren dins del còmput de les conques internes. 
 
-**¿Què volen dir les fases?**
+**Què volen dir les fases?**
 
-En [aquesta pàgina](https://sequera.gencat.cat/ca/accions/el-semafor-de-la-sequera/index.html) de l'ACA s'expliquen els criteris.
+A [aquesta pàgina](https://sequera.gencat.cat/ca/accions/el-semafor-de-la-sequera/index.html) de l'ACA s'hi expliquen els criteris que defineixen cada fase.
 
-**¿Per què no es publiquen les dades de capacitat màxima dels embassaments?**
+**Per què les imatges del radar no mostren precipitació sí en realitat està plovent?**
 
-Perquè algunes publicacions tenen un limit de caràcters i, a més, no sembla bona idea possar massa dades. Pels curiosos [aquí](https://x.com/Embassamentscat/status/1901755055088279741) hi ha les dades.
+[Aquí](https://x.com/meteocat/status/1892876743951675486), els del Meteocat, ho expliquen molt bé.
 
-**¿Per què les imatges del radar no marquen i sí que està plovent?**
-
-[Aquí](https://x.com/meteocat/status/1892876743951675486) ho expliquen molt bé els del meteocat.
-
-**¿En algun moment hi haurà el codi font de l'automatització?** 
+**Es publicarà el codi font de l'automatització en algun moment?** 
 
 Aquesta és la idea, sí. Quan? No se sap.
 
-**¿El [tuit](https://x.com/Embassamentscat/status/1903815824713929078) sobre el debat dels límits de l'humor és seriòs?** 
+**El [tuit](https://x.com/Embassamentscat/status/1903815824713929078) sobre el debat dels lómits de l'humor és seriós?** 
 
 Aquesta pregunta, és seriosa?
 
-**¿Ja em puc dutxar?**
+**Ja em puc dutxar?**
 
 I tant. Com més aviat, millor, sisplau!
 
@@ -81,7 +81,7 @@ I tant. Com més aviat, millor, sisplau!
 
 Informe diari de l'estat dels embassaments:
 
-- [Estat dels embassaments](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/recursos-disponibles/estat-de-les-reserves-daigua-als-embassaments/). Aquí hi ha la xifra oficial de l'ACA de l'estat actual dels embassaments. Es publica cada dia per voltants de les 12 i es pot veure el detall a l'[Informe diari de l'estat de tots els embassaments a tot catalunya](https://info.aca.gencat.cat/ca/aca/informacio/informesdwh/dades_embassaments_ca.pdf).
+- [Estat dels embassaments](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/recursos-disponibles/estat-de-les-reserves-daigua-als-embassaments/). Aquí hi trobaràs la xifra oficial de l'ACA de l'estat actual dels embassaments. Aquesta dada es publica cada dia, capa a les 12 del migdia, i pots consultar-ne el detall a l'[Informe diari de l'estat de tots els embassaments a tot catalunya](https://info.aca.gencat.cat/ca/aca/informacio/informesdwh/dades_embassaments_ca.pdf).
 
 Eines visuals amb dades a temps real:
   - [Dades a temps real de l'ACA](http://aca-web.gencat.cat/sdim2/visor/) amb la plataforma [Sentilo](https://www.sentilo.io/).
