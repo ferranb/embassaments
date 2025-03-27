@@ -19,7 +19,7 @@ La primera dada es va publicar a twitter el [22 de Maig del 2024](https://x.com/
 
 **Aquest projecte pertany a algun organisme oficial?** 
 
-No. Aquest projecte té cap mena de relació amb cap organisme públic ni privat, ni cap partit polític, associació o fundació. Està gestionat per una persona individual.
+No. Aquest projecte no té cap mena de relació amb cap organisme públic ni privat, ni cap partit polític, associació o fundació. Està gestionat per una persona individual.
 
 **D'on surten les dades?** 
 
@@ -39,6 +39,12 @@ L'Agència Catalana de l'Aigua disposa d'un conjunt de dades obertes que actulit
 **Per què hi ha tanta diferència entre el percentatge indicat i les dades que publica l'ACA a la pàgina d'estat dels embassamnets?**
 
 La dada que apareix a [Estat dels embassaments](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/recursos-disponibles/estat-de-les-reserves-daigua-als-embassaments/) s'actualitza diàriament cap a les 12:00 i correspon a unes dades d'hores anteriors. En canvi, les dades que es publiquen en aquests comptes són les més recents disponibles mitjançant l'API.
+
+**Per què hi ha tanta diferència entre el percentatge indicat i les dades que publica embalses.net?**
+
+A [embalses.net](https://www.embalses.net) es publiquen dues sèries de dades sobre els embassaments de Catalunya. Per una banda, les dades de [totes les conques de Catalunya](https://www.embalses.net/comunidad-10-cataluna.html) i, per l'altra, les dades de les [conques internes](https://www.embalses.net/cuenca-11-cataluna-interna.html).
+
+A dia d'avui, aquesta projecte publica les dades de les conques internes, perquè són les dades que proporciona l'ACA. Més endavant, quan sigui possible, també es publicaran les de la resta de conques.
 
 **Per què hi ha embassaments que superen el 100% de capacitat?**
 
