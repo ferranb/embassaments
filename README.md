@@ -79,8 +79,7 @@ Malauradament no s'ha trobat cap API que les publiqui així que es fa servir [we
 
 **Totes les publicacions es fan mitjançant un bot?**
 
-- Les dades en format text són totalment automatitzades. 
-- El gràfic de la "gota" es genera automàticament i, en breu, també es publicarà de manera automàtica, ja que fa temps que funciona sense problemes.
+- Les publicacions de les dades en format text i els gràfics de la "gota" són totalment automatitzades. 
 - La resta de gràfics es generen automàticament, però es publiquen manualment.
 - Les respostes als comentaris, de moment, són manuals.
 
