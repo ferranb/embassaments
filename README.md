@@ -104,7 +104,7 @@ Informe diari de l'estat dels embassaments:
 - [Estat dels embassaments](https://aca.gencat.cat/ca/laigua/estat-del-medi-hidric/recursos-disponibles/estat-de-les-reserves-daigua-als-embassaments/). Aquí hi trobaràs la xifra oficial de l'ACA de l'estat actual dels embassaments. Aquesta dada es publica cada dia, capa a les 12 del migdia, i pots consultar-ne el detall a l'[Informe diari de l'estat de tots els embassaments a tot catalunya](https://info.aca.gencat.cat/ca/aca/informacio/informesdwh/dades_embassaments_ca.pdf).
 
 Eines visuals amb dades a temps real:
-  - [Dades a temps real de l'ACA](http://aca-web.gencat.cat/sdim2/visor/) amb la plataforma [Sentilo](https://www.sentilo.io/).
+  - [Dades a temps real de l'ACA](https://aplicacions.aca.gencat.cat/sdim2/visor/) amb la plataforma [Sentilo](https://www.sentilo.io/).
   - [Eina visual de l'ACA sobre l'estat dels embassaments](https://aca.gencat.cat/ca/laigua/consulta-de-dades/dades-obertes/visualitzacio-interactiva-dades/estat-embassaments/).
   - [Un altre visor molt interessant](https://aplicacions.aca.gencat.cat/aetr/vishid/#ara).
 
@@ -114,8 +114,8 @@ Dades obertes per us d'aplicacions o analístes de dades:
 - [Catàleg de dades obertes](https://aca.gencat.cat/ca/laigua/consulta-de-dades/dades-obertes/cataleg-dades-obertes/).
 - [Quantitat d’aigua als embassaments de les Conques Internes de Catalunya](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Quantitat-d-aigua-als-embassaments-de-les-Conques-/gn9e-3qhr/about_data). Dades obertes dels embassaments de conques internes. La granularitat és diària.
 - Pels més curiosos, les crides a l'API (Application Programming Interface) que es fan servir per actualitzar les dades que es publiquen:
-  - [Catàleg de sensors](http://aca-web.gencat.cat/sdim2/apirest/catalog?componentType=embassament).
-  - [Crida a les darreres dades dels sensors](http://aca-web.gencat.cat/sdim2/apirest/data/EMBASSAMENT-EST).
+  - [Catàleg de sensors](https://aplicacions.aca.gencat.cat/sdim2/apirest/catalog?componentType=embassament).
+  - [Crida a les darreres dades dels sensors](https://aplicacions.aca.gencat.cat/sdim2/apirest/data/EMBASSAMENT-EST).
 
 Altres enllaços:
 - [Preses i embassaments de Catalunya](https://aca.gencat.cat/ca/laigua/infraestructures/preses-i-embassaments).
