@@ -110,7 +110,7 @@ Eines visuals amb dades a temps real:
 
 Dades obertes per us d'aplicacions o analístes de dades:
 
-- [Dades obertes a temps real](https://aca.gencat.cat/ca/laigua/consulta-de-dades/dades-obertes/dades-obertes-temps-real/) on trobareu els enllaços i també el [Manual d’ús del servei API-REST de l'ACA](https://aca.gencat.cat/web/.content/20_Aigua/08_consulta_de_dades/01_dades_obertes/02_dades_obertes_a_temps_real/us_serveis_dades_API_REST.pdf).
+- [Dades obertes a temps real](https://aca.gencat.cat/ca/laigua/consulta-de-dades/dades-obertes/dades-obertes-temps-real/) on trobareu els enllaços i també el [Manual d’ús del servei API-REST de l'ACA](https://aca.gencat.cat/web/.content/20_Aigua/08_consulta_de_dades/01_dades_obertes/02_dades_obertes_temps_real/us_serveis_dades_API_REST.pdf).
 - [Catàleg de dades obertes](https://aca.gencat.cat/ca/laigua/consulta-de-dades/dades-obertes/cataleg-dades-obertes/).
 - [Quantitat d’aigua als embassaments de les Conques Internes de Catalunya](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Quantitat-d-aigua-als-embassaments-de-les-Conques-/gn9e-3qhr/about_data). Dades obertes dels embassaments de conques internes. La granularitat és diària.
 - Pels més curiosos, les crides a l'API (Application Programming Interface) que es fan servir per actualitzar les dades que es publiquen:
