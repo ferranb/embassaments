@@ -13,7 +13,7 @@ La informació dels embassaments de Catalunya està disponible ens aquestes xarx
 
 Les dades s'obtenen de l'API de dades obertes de l'[Agència Catalana de l'Aigua (ACA)](https://aca.gencat.cat/ca/inici/index.html) i es publiquen automàticament a les xarxes socials anteriors amb criteris diferents. També es fan algunes publicacions manualment de manera puntual. 
 
-La primera dada es va publicar a twitter el [22 de Maig del 2024](https://x.com/Embassamentscat/status/1793296839057301744).
+La primera dada es va publicar a twitter el [22 de Maig del 2024](https://x.com/Embassamentscat/status/1793296839057301744). I, com a curiositat, [un post que vaig publicar a LinkedIn](https://www.linkedin.com/posts/ferranbusquets_qu%C3%A8-fa-que-un-projecte-personal-es-torni-activity-7310683035253768192-3Vkk) sobre aquest projecte.
 
 # [Preguntes frequents](#preguntesfrequents)
 
