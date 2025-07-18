@@ -15,7 +15,15 @@ Les dades s'obtenen de l'API de dades obertes de l'[Agència Catalana de l'Aigua
 
 La primera dada es va publicar a twitter el [22 de Maig del 2024](https://x.com/Embassamentscat/status/1793296839057301744). I, com a curiositat, [un post que vaig publicar a LinkedIn](https://www.linkedin.com/posts/ferranbusquets_qu%C3%A8-fa-que-un-projecte-personal-es-torni-activity-7310683035253768192-3Vkk) sobre aquest projecte.
 
-# [Preguntes frequents](#preguntesfrequents)
+<xp align="center">
+<xa href="https://www.buymeacoffee.com/ferranb">
+<ximg align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="38" width="158" alt="ferran busquets"/>
+</a> 
+</p>
+<xbr>
+  
+  
+# Preguntes frequents
 
 ## Sobre el projecte
 
