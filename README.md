@@ -71,7 +71,7 @@ Perquè no entren dins del còmput de les conques internes.
 
 ### Què volen dir les fases?
 
-A [aquesta pàgina](https://sequera.gencat.cat/ca/accions/el-semafor-de-la-sequera/index.html) de l'ACA s'hi expliquen els criteris que defineixen cada fase.
+A [aquesta pàgina](https://aca.gencat.cat/ca/laigua/portal-sequera/accions/el-semafor-de-la-sequera/) de l'ACA s'hi expliquen els criteris que defineixen cada fase.
 
 ## Sobre les imatges del radar
 
