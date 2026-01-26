@@ -69,6 +69,10 @@ Perquè, com diuen els metereòlegs, a més de ploure, ha de ploure bé. En el c
 
 Perquè no entren dins del còmput de les conques internes. 
 
+### Com és que Gaià mai puja? 
+
+L'embassament de Gaià està sempre força buit perquè no està quasi funcional. De fet, sembla que [s'ha estudiat demolir-lo](https://www.elperiodico.cat/ca/societat/20240903/catalunya-estudia-demolir-per-primera-107682963). 
+
 ### Què volen dir les fases?
 
 A [aquesta pàgina](https://aca.gencat.cat/ca/laigua/portal-sequera/accions/el-semafor-de-la-sequera/) de l'ACA s'hi expliquen els criteris que defineixen cada fase.
