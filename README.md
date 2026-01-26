@@ -65,6 +65,10 @@ No ho sabem. Això s'ha de preguntar-ho directament a l'[ACA](https://x.com/aigu
 
 Perquè, com diuen els metereòlegs, a més de ploure, ha de ploure bé. En el cas dels embassaments de les conques internes, cal que plogui a les zones indicades en aquest [mapa](https://x.com/aigua_cat/status/1662007831199989760) que l'ACA va publicar en el seu moment.
 
+### Quin és el percentatge màxim assolit de les conques internes?
+
+Segons [dades de l'ACA](https://aplicacions.aca.gencat.cat/visseq/estat-actual), el gener del 2020 vam arribar al 98,48%
+
 ### Per què Gaià i el Pasteral apareixen per separat?
 
 Perquè no entren dins del còmput de les conques internes. 
