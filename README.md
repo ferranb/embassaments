@@ -105,6 +105,10 @@ Aquesta és la idea, sí. Quan? No se sap.
 
 ## Altres... però no menys importants
 
+### Per què hi ha tants decimals?
+
+Quan hi ha molta variabilitat en els valors, efectivament, tres decimals poden semblar innecessaris. Però en èpoques en què els canvis són numèricament petits, si només hi ha dos decimals, per exemple, els canvis no es visualitzen.
+
 ### El [tuit](https://x.com/Embassamentscat/status/1903815824713929078) sobre el debat dels límits de l'humor és seriós?
 
 Aquesta pregunta, és seriosa?
