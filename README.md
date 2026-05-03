@@ -7,20 +7,25 @@ La informació dels embassaments de Catalunya està disponible ens aquestes xarx
   - Cada hora dia i nit.
 - Twitter:
   - https://x.com/Embassamentscat
-  - Cada hora entre les 8:00 i les 23:00 inclosses. Això és degut a la límitació de l'API de twitter amb el número màxim de piulades per dia. 
+  - Cada hora entre les 8:00 i les 23:00 inclosses. Això és degut a la límitació de l'API de twitter que ara *és de pagament*.
 - Instagram:
   - https://www.instagram.com/embassaments
-
+ 
 Les dades s'obtenen de l'API de dades obertes de l'[Agència Catalana de l'Aigua (ACA)](https://aca.gencat.cat/ca/inici/index.html) i es publiquen automàticament a les xarxes socials anteriors amb criteris diferents. També es fan algunes publicacions manualment de manera puntual. 
 
 La primera dada es va publicar a twitter el [22 de Maig del 2024](https://x.com/Embassamentscat/status/1793296839057301744). I, com a curiositat, [un post que vaig publicar a LinkedIn](https://www.linkedin.com/posts/ferranbusquets_qu%C3%A8-fa-que-un-projecte-personal-es-torni-activity-7310683035253768192-3Vkk) sobre aquest projecte.
 
-<xp align="center">
-<xa href="https://www.buymeacoffee.com/ferranb">
-<ximg align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="38" width="158" alt="ferran busquets"/>
+Si em vols donar suport per a les despeses de publicació a twitter:
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/ferranb" target='_blank'>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="38" width="158" alt="ferran busquets"/>
 </a> 
+<a href='https://ko-fi.com/ferranbusquets' target='_blank'>
+<img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
-<xbr>
+
+<br>
   
   
 # Preguntes frequents
