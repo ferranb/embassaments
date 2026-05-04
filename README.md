@@ -15,22 +15,23 @@ Les dades s'obtenen de l'API de dades obertes de l'[Agència Catalana de l'Aigua
 
 La primera dada es va publicar a twitter el [22 de Maig del 2024](https://x.com/Embassamentscat/status/1793296839057301744). I, com a curiositat, [un post que vaig publicar a LinkedIn](https://www.linkedin.com/posts/ferranbusquets_qu%C3%A8-fa-que-un-projecte-personal-es-torni-activity-7310683035253768192-3Vkk) sobre aquest projecte.
 
-Si em vols donar suport per a les despeses de publicació a twitter:
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/ferranb" target='_blank'>
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="38" width="158" alt="ferran busquets"/>
-</a> 
-<a href='https://ko-fi.com/ferranbusquets' target='_blank'>
-<img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</p>
-
-<br>
-  
   
 # Preguntes frequents
 
 ## Sobre el projecte
+
+### Té algún cost aquest projecte?
+
+Fins al 29 d’abril no tenia cap cost econòmic. Des de llavors, l’ús de l’[API](https://docs.x.com/overview) de Twitter/X té un cost. De moment és un cost baix i assumible. Si em vols donar suport amb les despeses de publicació a Twitter/X:
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ferranb" target="_blank" style="display:inline-block;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="38" width="158"/>
+  </a>
+  <a href="https://ko-fi.com/ferranbusquets" target="_blank" style="display:inline-block;">
+    <img src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" height="36" alt="Buy Me a Coffee at ko-fi.com" style="border:0;height:36px;"/>
+  </a>
+</p>
 
 ### Aquest projecte pertany a algun organisme oficial?
 
