@@ -22,7 +22,7 @@ La primera dada es va publicar a twitter el [22 de Maig del 2024](https://x.com/
 
 ### Té algún cost aquest projecte?
 
-Fins al 29 d’abril no tenia cap cost econòmic. Des de llavors, l’ús de l’[API](https://docs.x.com/overview) de Twitter/X té un cost. De moment és un cost baix i assumible. Si em vols donar suport amb les despeses de publicació a Twitter/X:
+Fins al 29 d’abril no tenia cap cost econòmic. Des de llavors, l’ús de l’[API](https://docs.x.com/overview) de Twitter/X té un cost. De moment és un cost assumible. Si vols donar suport amb les despeses de publicació a Twitter/X:
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/ferranb" target="_blank" style="display:inline-block;">
